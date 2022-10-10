@@ -1,6 +1,6 @@
 let a = 10;
-if(10%3==0){
-    console.log("Even");
+if(10%2==0){
+    console.log("Even Number");
 }else{
-    console.log("Odd");
+    console.log("Odd Number");
 }
